@@ -17,4 +17,5 @@ public abstract class Account
 	public abstract int getAccnNumber();
 	public abstract double getBalance();
 	protected abstract String getAccountInfo();
+	
 }
